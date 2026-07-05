@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prajnashetty/End-to-End-Machine-Learning-Project-with-ML-Flow/mlruns/0/5d24e239bff44e4fb7ec52ad97cf45a1/artifacts
+end_time: 1783285336180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d24e239bff44e4fb7ec52ad97cf45a1
+run_name: illustrious-cow-563
+run_uuid: 5d24e239bff44e4fb7ec52ad97cf45a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783285335010
+status: 4
+tags: []
+user_id: prajnashetty

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prajnashetty/End-to-End-Machine-Learning-Project-with-ML-Flow/mlruns/0/5a6bf52be1f24d339dd336eda8b9be40/artifacts
+end_time: 1783285502677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a6bf52be1f24d339dd336eda8b9be40
+run_name: beautiful-dog-904
+run_uuid: 5a6bf52be1f24d339dd336eda8b9be40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783285501523
+status: 4
+tags: []
+user_id: prajnashetty

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prajnashetty/End-to-End-Machine-Learning-Project-with-ML-Flow/mlruns/0/d661e55cf5ce453a8874973a61b7bc07/artifacts
+end_time: 1783285806054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d661e55cf5ce453a8874973a61b7bc07
+run_name: luxuriant-perch-97
+run_uuid: d661e55cf5ce453a8874973a61b7bc07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783285804918
+status: 3
+tags: []
+user_id: prajnashetty

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prajnashetty/End-to-End-Machine-Learning-Project-with-ML-Flow/mlruns/0/62ddff7eb1ff4bcb9ce6dcc14e4d3969/artifacts
+end_time: 1783284883333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62ddff7eb1ff4bcb9ce6dcc14e4d3969
+run_name: youthful-trout-263
+run_uuid: 62ddff7eb1ff4bcb9ce6dcc14e4d3969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783284882223
+status: 4
+tags: []
+user_id: prajnashetty

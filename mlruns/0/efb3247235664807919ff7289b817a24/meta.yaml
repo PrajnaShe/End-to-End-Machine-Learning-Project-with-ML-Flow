@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prajnashetty/End-to-End-Machine-Learning-Project-with-ML-Flow/mlruns/0/efb3247235664807919ff7289b817a24/artifacts
+end_time: 1783284166918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb3247235664807919ff7289b817a24
+run_name: invincible-horse-162
+run_uuid: efb3247235664807919ff7289b817a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783284165723
+status: 4
+tags: []
+user_id: prajnashetty
